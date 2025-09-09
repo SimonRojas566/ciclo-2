@@ -76,6 +76,7 @@ public class ParticipanteController {
         carraraColum=new TableColumn("Carrera");
         tipoPartColum=new TableColumn("Tipo Participante");
         opcColum=new TableColumn("Opciones");
+        opcColum.setPrefWidth(200);
         tableView.getColumns().addAll(dniColum, nombreColum, apellidoColum, carraraColum, tipoPartColum, opcColum);
     }
 
