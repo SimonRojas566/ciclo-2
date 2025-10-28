@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?import javafx.scene.layout.VBox?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.control.TableView?>
+<VBox xmlns:fx="http://javafx.com/fxml" fx:controller="com.example.springfxcrud.ui.ProductosController">
+  <Label text="Lista de Productos"/>
+  <TableView fx:id="table"/>
+</VBox>

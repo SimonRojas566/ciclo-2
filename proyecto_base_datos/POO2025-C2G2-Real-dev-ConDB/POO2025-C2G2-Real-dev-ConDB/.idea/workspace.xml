@@ -4,7 +4,17 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="4f19a315-8f53-4624-a2cf-0a69bc0e1a8a" name="Changes" comment="" />
+    <list default="true" id="4f19a315-8f53-4624-a2cf-0a69bc0e1a8a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/POO2025-C2G2-Real-dev-JpaORM.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/encodings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/jarRepositories.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../../proyecto_datos_modificado/POO2025-C2G2-Real-dev-JpaORM/.idea/vcs.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -26,7 +36,8 @@
     &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;proyecto__con__base__datos&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;proyecto__datos__modificado&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
     &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
     &quot;last_opened_file_path&quot;: &quot;C:/proyectos/proyecto_base_datos/POO2025-C2G2-Real-dev-ConDB/POO2025-C2G2-Real-dev-ConDB&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
@@ -37,11 +48,24 @@
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   }
 }</component>
+  <component name="RunManager">
+    <configuration default="true" type="JetRunConfigurationType">
+      <module name="POO2025-C2G2-Real-dev-ConDB" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration default="true" type="KotlinStandaloneScriptRunConfigurationType">
+      <module name="POO2025-C2G2-Real-dev-ConDB" />
+      <option name="filePath" />
+      <method v="2" />
+    </configuration>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.25557.131" />
-        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-IU-252.25557.131" />
+        <option value="bundled-jdk-9823dce3aa75-bf35d07a577b-intellij.indexing.shared.core-IU-252.26830.84" />
+        <option value="bundled-js-predefined-d6986cc7102b-3aa1da707db6-JavaScript-IU-252.26830.84" />
       </set>
     </attachedChunks>
   </component>
@@ -54,6 +78,8 @@
       <updated>1759244113313</updated>
       <workItem from="1759244115025" duration="4620000" />
       <workItem from="1759249756574" duration="1502000" />
+      <workItem from="1759847954042" duration="79000" />
+      <workItem from="1759848128915" duration="131000" />
     </task>
     <servers />
   </component>
